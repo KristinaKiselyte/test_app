@@ -5,6 +5,11 @@
   background-color: #f4f4f4;
   padding: 10px;
   border-bottom: 1px solid #e4e4e4;
+
+  li {
+    display: inline-block;
+    list-style-type: none;
+  }
 }
 
 body {
